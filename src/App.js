@@ -72,6 +72,7 @@ class App extends React.Component
 			})
 			.then(res => {
 				window.location.reload();
+				console.log(res);
 			})
 			}
 		}
