@@ -123,6 +123,7 @@ class App extends React.Component
 				<div className= "responsive">
 					<ShowTheList/>
 				</div>
+				<div className= "Footer">Created with a smile by Shounak</div>
 			</div>
 		);
 	}
